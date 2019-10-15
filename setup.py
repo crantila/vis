@@ -53,7 +53,7 @@ setup(
         'music21 (== 2.1.2)',
         'pandas (== 0.18.1)',
         'multi_key_dict (== 2.0.3)',
-		'requests (== 2.11.1)'
+		'requests (== 2.20.0)'
         ],
     install_requires = [
         'music21 == 2.1.2',
